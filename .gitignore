@@ -1,0 +1,5 @@
+*
+!*.*
+!*/
+
+# bad practice but im not making a build directory, so this deletes all ELF executables
